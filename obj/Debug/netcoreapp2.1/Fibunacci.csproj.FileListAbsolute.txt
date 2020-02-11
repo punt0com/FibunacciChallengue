@@ -1,0 +1,11 @@
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\bin\Debug\netcoreapp2.1\Fibunacci.deps.json
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\bin\Debug\netcoreapp2.1\Fibunacci.runtimeconfig.json
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\bin\Debug\netcoreapp2.1\Fibunacci.runtimeconfig.dev.json
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\bin\Debug\netcoreapp2.1\Fibunacci.dll
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\bin\Debug\netcoreapp2.1\Fibunacci.pdb
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.csprojAssemblyReference.cache
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.csproj.CoreCompileInputs.cache
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.AssemblyInfoInputs.cache
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.AssemblyInfo.cs
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.dll
+C:\Users\1025308\source\repos\Fibunacci\Fibunacci\obj\Debug\netcoreapp2.1\Fibunacci.pdb
